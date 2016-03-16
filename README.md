@@ -1,2 +1,0 @@
-# gitskills
-some skills file
